@@ -1,8 +1,8 @@
 <?php
 
-$DB_NAME = 'ecom'; //must be already created
+$DB_NAME = 'ecom';
 $HOST = "localhost";
-$USER = "manuver";
+$USER = "root";
 $PASS = "";
 
 

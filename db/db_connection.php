@@ -43,6 +43,6 @@ class DBConnection {
 }
 
 
-$db_connection = new DBConnection($GLOBALS['DB_NAME']);
+// $db_connection = new DBConnection($GLOBALS['DB_NAME']);
 
 ?>
